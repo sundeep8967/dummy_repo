@@ -2,5 +2,6 @@
 void main(){
 
 cout<<""hello";
+cout<<"how are you";
 
 }
